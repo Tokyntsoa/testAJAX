@@ -10,6 +10,7 @@
 		<option value="kiwi">kiwi</option>
 		<option value="banane">banane</option>
 		<option value="tomate">tomate</option>
+		<option value="tomates">tomates</option>
 	</select>
 	<h2 id="titre"></h2>
 	<img src="" id="apercu" />
